@@ -1,7 +1,7 @@
 {
-  "name": "pwaPrompt",
-  "short_name": "pwaPrompt",
-  "theme_color": "#1976d2",
+  "name": "pwatest App movil 4",
+  "short_name": "pwatest App4",
+  "theme_color": "#00ff28",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
