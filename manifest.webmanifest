@@ -1,6 +1,6 @@
 {
-  "name": "pwatest App movil 4",
-  "short_name": "pwatest App4",
+  "name": "PWA App movil",
+  "short_name": "PWA App",
   "theme_color": "#00ff28",
   "background_color": "#fafafa",
   "display": "standalone",
